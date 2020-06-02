@@ -47,7 +47,7 @@ function setBg() {
 
   if (hour < 12){
     //morning
-    document.body.style.background="url('../img/goodmorgem.jfif')";
+    document.body.style.background="url('../img/goodmorgen.jfif')";
     greeting.textContent="Good Morning";
   } else if (hour < 18) {
     //Aternoon
